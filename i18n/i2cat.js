@@ -6,7 +6,7 @@
 export const translations =
 {
   // SeguimentProjecte
-  "tool.seguiment_projecte.label" : "Project tracking",
+  "tool.seguiment_projecte.label" : "Copy Project tracking",
   "tool.seguiment_projecte.help" : "Project tracking",
 
   "action.upload_folder" : "Upload folder",

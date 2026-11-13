@@ -1,5 +1,5 @@
 {
-  "name": "i2cat",
+  "name": "copyi2cat",
   "priority": 40,
   "version": "1.0",
   "releaseDate": "2026-09-20",
@@ -8,7 +8,7 @@
   {
     "":
     {
-      "description": "i2cat module.",
+      "description": "copy i2cat module.",
       "developer": "i2cat team",
       "infoUrl": "https://i2cat.net/"
     },

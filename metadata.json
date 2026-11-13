@@ -1,0 +1,24 @@
+{
+  "name": "i2cat",
+  "priority": 40,
+  "version": "1.0",
+  "releaseDate": "2026-09-20",
+  "license": "LGPL/EULA",
+  "translations":
+  {
+    "":
+    {
+      "description": "i2cat module.",
+      "developer": "i2cat team",
+      "infoUrl": "https://i2cat.net/"
+    },
+    "es":
+    {
+      "description": "Módulo con herramientas de i2cat."
+    },
+    "ca":
+    {
+      "description": "Mòdul amb eines d'i2cat."
+    }
+  }
+}

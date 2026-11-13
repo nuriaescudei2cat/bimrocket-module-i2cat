@@ -1,0 +1,9 @@
+.fileexplorer-panel .entry.file.word > div::before
+{
+  mask-image: url(../icons/file.svg#word);
+}
+
+.fileexplorer-panel .entry.file.excel > div::before
+{
+  mask-image: url(../icons/file.svg#excel);
+}

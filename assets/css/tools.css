@@ -1,0 +1,29 @@
+.tool_button.gis
+{
+  background-image: url(../icons/misc/gis.svg);
+}
+
+.tool_button.processing_permits
+{
+  background-image: url(../icons/misc/processing_permits.svg);
+}
+
+.tool_button.select_by_view
+{
+  background-image: url(../icons/misc/select_by_view.svg);
+}
+
+.tool_button.task
+{
+  background-image: url(../icons/misc/task_script.svg);
+}
+
+.tool_button.upload_model
+{
+  background-image: url(../icons/misc/upload_model.svg);
+}
+
+.tool_button.cloud_explorer
+{
+  background-image: url(../icons/misc/cloud_explorer.svg);
+}
